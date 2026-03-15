@@ -1,0 +1,6 @@
+0000000000000000000000000000000000000000 c7f2eb0826165086eafe7d45a745c41ebbea0d28 varun <varunjuneja7@gmail.com> 1773569128 +0530	branch: Created from HEAD
+c7f2eb0826165086eafe7d45a745c41ebbea0d28 8a88c1121b6fedbd6d955850eb2f3d7c615b7133 varun <varunjuneja7@gmail.com> 1773569139 +0530	commit: frontend-init
+8a88c1121b6fedbd6d955850eb2f3d7c615b7133 060f188ebc637da519af89782cd782a3fba9166d varun <varunjuneja7@gmail.com> 1773571910 +0530	commit: frontend api changes
+060f188ebc637da519af89782cd782a3fba9166d 90373a5a7d38bf558fc4db999d2d53eaad15af8c varun <varunjuneja7@gmail.com> 1773572646 +0530	commit: Added pagination
+90373a5a7d38bf558fc4db999d2d53eaad15af8c 92d24fc34102655f472f74a1c4c8d729c06e9407 varun <varunjuneja7@gmail.com> 1773580986 +0530	commit: add .gitignore
+92d24fc34102655f472f74a1c4c8d729c06e9407 141dc2545f6c6a5f2c772c7bfe20f75c3db4651d varun <varunjuneja7@gmail.com> 1773581489 +0530	commit: remove package-lock.json

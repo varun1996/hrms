@@ -1,0 +1,14 @@
+services:
+  - type: web
+    name: hrms-lite-backend
+    runtime: python
+    rootDir: backend
+    buildCommand: bash ./build.sh
+    startCommand: gunicorn config.wsgi:application
+    envVars:
+      - key: DJANGO_DEBUG
+        value: "False"
+      - key: DJANGO_SECURE_SSL_REDIRECT
+        value: "True"
+      - key: POSTGRES_SSLMODE
+        value: require

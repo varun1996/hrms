@@ -1,0 +1,17 @@
+0000000000000000000000000000000000000000 c7f2eb0826165086eafe7d45a745c41ebbea0d28 varun <varunjuneja7@gmail.com> 1773561664 +0530	clone: from github.com:varun1996/hrms_lite.git
+c7f2eb0826165086eafe7d45a745c41ebbea0d28 c7f2eb0826165086eafe7d45a745c41ebbea0d28 varun <varunjuneja7@gmail.com> 1773565302 +0530	checkout: moving from main to backend-init
+c7f2eb0826165086eafe7d45a745c41ebbea0d28 a78db4e1a363323b562d6918343acccbbddebfcb varun <varunjuneja7@gmail.com> 1773565318 +0530	commit: backend init
+a78db4e1a363323b562d6918343acccbbddebfcb c7f2eb0826165086eafe7d45a745c41ebbea0d28 varun <varunjuneja7@gmail.com> 1773565638 +0530	checkout: moving from backend-init to main
+c7f2eb0826165086eafe7d45a745c41ebbea0d28 c7f2eb0826165086eafe7d45a745c41ebbea0d28 varun <varunjuneja7@gmail.com> 1773569128 +0530	checkout: moving from main to frontend-init
+c7f2eb0826165086eafe7d45a745c41ebbea0d28 8a88c1121b6fedbd6d955850eb2f3d7c615b7133 varun <varunjuneja7@gmail.com> 1773569139 +0530	commit: frontend-init
+8a88c1121b6fedbd6d955850eb2f3d7c615b7133 a78db4e1a363323b562d6918343acccbbddebfcb varun <varunjuneja7@gmail.com> 1773569205 +0530	checkout: moving from frontend-init to backend-init
+a78db4e1a363323b562d6918343acccbbddebfcb 233fe8ee096ce2670d4c6d1c4b78372d69524236 varun <varunjuneja7@gmail.com> 1773571377 +0530	commit: backend revamp
+233fe8ee096ce2670d4c6d1c4b78372d69524236 8a88c1121b6fedbd6d955850eb2f3d7c615b7133 varun <varunjuneja7@gmail.com> 1773571407 +0530	checkout: moving from backend-init to frontend-init
+8a88c1121b6fedbd6d955850eb2f3d7c615b7133 060f188ebc637da519af89782cd782a3fba9166d varun <varunjuneja7@gmail.com> 1773571910 +0530	commit: frontend api changes
+060f188ebc637da519af89782cd782a3fba9166d 90373a5a7d38bf558fc4db999d2d53eaad15af8c varun <varunjuneja7@gmail.com> 1773572646 +0530	commit: Added pagination
+90373a5a7d38bf558fc4db999d2d53eaad15af8c 92d24fc34102655f472f74a1c4c8d729c06e9407 varun <varunjuneja7@gmail.com> 1773580986 +0530	commit: add .gitignore
+92d24fc34102655f472f74a1c4c8d729c06e9407 141dc2545f6c6a5f2c772c7bfe20f75c3db4651d varun <varunjuneja7@gmail.com> 1773581489 +0530	commit: remove package-lock.json
+141dc2545f6c6a5f2c772c7bfe20f75c3db4651d c7f2eb0826165086eafe7d45a745c41ebbea0d28 varun <varunjuneja7@gmail.com> 1773581646 +0530	checkout: moving from frontend-init to main
+c7f2eb0826165086eafe7d45a745c41ebbea0d28 b0d61a1dbb8c8ff78c7e578acda675c66ac4a4ff varun <varunjuneja7@gmail.com> 1773581657 +0530	pull origin main: Fast-forward
+b0d61a1dbb8c8ff78c7e578acda675c66ac4a4ff 696e24d4f5d74a74271087dc8b8b4265a599b80f varun <varunjuneja7@gmail.com> 1773592215 +0530	commit: added backend changes
+696e24d4f5d74a74271087dc8b8b4265a599b80f fbc25a2a33e6f1ea690b9cb88c5b49528e0ae50a varun <varunjuneja7@gmail.com> 1773592329 +0530	commit: added backend changes
