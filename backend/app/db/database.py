@@ -3,6 +3,7 @@ from django.db import connection
 
 
 def database_healthcheck():
+    print("database url", os.getenv('DATABASE_URL'))
     print(f"NAME: {os.getenv('POSTGRES_DB')}",
         f"USER: {os.getenv('POSTGRES_USER', 'postgres')}",
         f"PASSWORD: {os.getenv('POSTGRES_PASSWORD', 'postgres')}",
