@@ -159,6 +159,7 @@ CSRF_TRUSTED_ORIGINS = [
     for origin in os.getenv('DJANGO_CSRF_TRUSTED_ORIGINS', '').split(',')
     if origin.strip()
 ]
+CORS_ALLOW_ALL_ORIGINS = os.getenv('DJANGO_CORS_ALLOW_ALL_ORIGINS', 'False').lower() == 'true'
 CORS_ALLOWED_ORIGINS = [
     origin.strip()
     for origin in os.getenv('DJANGO_CORS_ALLOWED_ORIGINS', '').split(',')
